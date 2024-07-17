@@ -64,5 +64,4 @@ public class BookStoreServiceImpl implements BookStoreService {
     public List<Book> getBooksByStore(int id) {
         return bookRepository.getBooksByStoreId(id);
     }
-
 }
