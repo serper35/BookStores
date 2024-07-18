@@ -13,9 +13,11 @@
 
 Для запуска приложения необходимы следующие компоненты:
 
-- ![Java](https://img.shields.io/badge/Java-11%2B-orange)
 - ![Maven](https://img.shields.io/badge/Maven-latest-blue)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-latest-green)
+- [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-informational?style=flat-square&logo=intellij-idea)](https://www.jetbrains.com/idea/)
+- [![Java 17](https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=java)](https://www.java.com/)
+- [![SpringBoot 3.3.1](https://img.shields.io/badge/SpringBoot-3.3.0-green?style=flat-square&logo=spring)]
 
 ## Быстрый старт
 
